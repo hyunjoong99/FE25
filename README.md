@@ -10,7 +10,7 @@
     - header : nav바를 포함하고 있음
     - main : 웰컴 화면이면서, 나에대한 소개
     - about : 나에 대한 자세한 소개
-    - features : 나의 코딩 역량량
+    - features : 나의 코딩 역량
     - portfolio : 내가 지금까지 이룬 학습 주제, 과제물
     - contact : 이메일 작성 폼
     - footer : 웹사이트 기본 정보
