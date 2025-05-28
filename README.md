@@ -2,7 +2,7 @@
 
 ### 컴퓨터공학과 김현중
 
-### 디플로이된 웹사이트 주소 " [https://splendid-kataifi-c7b178.netlify.app/] (https://splendid-kataifi-c7b178.netlify.app/)
+### 디플로이된 웹사이트 주소 [https://splendid-kataifi-c7b178.netlify.app/] (https://splendid-kataifi-c7b178.netlify.app/)
 
 
 ### 13장 프로젝트 요약
