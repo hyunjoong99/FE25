@@ -21,3 +21,6 @@
 - 6월 4일까지 할 것
     - features, portfolio, contact, footer
     - https://thebook.io/080313/0700/ 링크의 장부터 진도 시작
+
+- 5월 31일 피처스, 포트폴리오 부분 완성.
+    - https://thebook.io/080313/0714/ 링크의 장부터 진도 시작
