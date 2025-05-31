@@ -22,5 +22,7 @@
     - features, portfolio, contact, footer
     - https://thebook.io/080313/0700/ 링크의 장부터 진도 시작
 
-- 5월 31일 피처스, 포트폴리오 부분 완성.
+- 5월 31일(새벽) 피처스, 포트폴리오 부분 완성.
     - https://thebook.io/080313/0714/ 링크의 장부터 진도 시작
+
+- 5월 31일 컨택트, 푸터, 자바스크립트, @media 완성
