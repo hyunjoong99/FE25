@@ -502,3 +502,13 @@ section.contact .contact-me .right button {
   }
 }
 
+/* 푸터 */
+footer {
+  background-color: white;
+  color: black;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 16px;
+  font-weight: bold;
+  border-top: 1px solid #ccc;
+}
